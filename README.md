@@ -1,5 +1,5 @@
 #  Project Ujian Akhir Semester 7
-Nama : Salsa Bila Naqiyyah
+Nama : Salsa Bila Naqiyyah  
 NIM : 21.01.55.0018
 #  Deskripsi Project
 Project Ujian Akhir Semester 7 membuat sebuah web khursus dari halaman Login, Registrasi serta Halaman Utama Daftar Khursus yang di lengkapi dengan menu tambah khursus, edit, hapus dan cari. Tujuan project ini yaitu untuk memenuhi tugas Ujian Akhir Semester 7

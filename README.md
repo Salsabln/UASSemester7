@@ -6,7 +6,7 @@ Project Ujian Akhir Semester 7 membuat sebuah web khursus dari halaman Login, Re
 #  Alat Yang Dibutuhkan
 1. XAMPP (atau server web lain dengan PHP dan MySQL)
 2. Text editor (misalnya Visual Studio Code, Notepad++, dll)
-#  Cara Instalsasi dan Penggunaan
+#  Cara Instalasi dan Penggunaan
 ## 1. Persiapan Lingkungan
 1. Jalankan XAMPP Control Panel dan aktifkan Apache dan MySQL
 2. Buat folder baru bernama courses di dalam direktori htdocs XAMPP Anda.

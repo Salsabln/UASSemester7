@@ -3,7 +3,7 @@ Nama : Salsa Bila Naqiyyah
 NIM : 21.01.55.0018
 #  Deskripsi Project
 Project Ujian Akhir Semester 7 membuat sebuah web khursus dari halaman Login, Registrasi serta Halaman Utama Daftar Khursus yang di lengkapi dengan menu tambah khursus, edit, hapus dan cari. Tujuan project ini yaitu untuk memenuhi tugas Ujian Akhir Semester 7
-#  Alat Yang Dibutuhkah
+#  Alat Yang Dibutuhkan
 1. XAMPP (atau server web lain dengan PHP dan MySQL)
 2. Text editor (misalnya Visual Studio Code, Notepad++, dll)
 #  Cara Instalsasi dan Penggunaan
